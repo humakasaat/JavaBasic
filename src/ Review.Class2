@@ -1,0 +1,16 @@
+
+Type Casting:
+Type Casting is converting the type of data type to another one, we have two type of data type
+
+ we have two type of casting 1 Explicit/ narrowing because we are pleasing bigger box to smaller box.
+ 2. implicit/ widening/ automatic when from a bigger to smaller data type it is called
+ byte( 8), short( 16), char( 16), int( 31) Long( 64), float,(32) double( 64)
+ 
+ when we are working in team we might be convert data from diffrent data types
+ 
+ what is the syntax
+ 
+ Explicit/ narrowing
+ int box= 1000;
+ byte box2= ( byte) box;
+ implicit/ widening/ automatic

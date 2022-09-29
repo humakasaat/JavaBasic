@@ -1,0 +1,45 @@
+
+
+
+
+Syntax
+if ( boolean condation{
+})
+ boolean weekend= true;
+if ( weekend){
+System.out.println(" It is a Java class");
+
+	        
+}
+ String day="Saturday"
+ if ( day. equals(nSaturday));
+ 
+System.out.println(" It is a Java class");
+ 
+ int date= 3;
+ if ( date==3)
+ System.out.println(" today is the third");
+ 
+ ------------------------------------------------------
+ if ( boolean condation){ code A;
+ 
+} else{
+ code B;  }
+ ------------------------------------------------
+ else if  if ( boolean condation){ code A;
+ 
+} else{
+ code B;  }
+ ----
+  Nested if - if Statment inside another if  when we use it one condition defynd on other condition
+  
+  if ( boolean condition){ -> iner condation
+  } if( boolean)
+  -------------------------
+  
+  logical Operators
+  Assignment operators: =
+  Artithmetic : +,-, *,/,%
+  Relational: &&, ||, !
+  Logical And &&
+  in Logical or|| if one condition is true will give true even the other is false
